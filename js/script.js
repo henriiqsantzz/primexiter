@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnFullCapa) {
         btnFullCapa.addEventListener('click', (e) => {
             e.preventDefault();
-            window.location.href = getRedirectUrl("https://pay.sunize.com.br/XAdEpISo");
+            window.location.href = getRedirectUrl("https://ambienteseguro.org.ua/c/ba40651ac0");
         });
     }
 
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btn7Days) {
         btn7Days.addEventListener('click', (e) => {
             e.preventDefault();
-            window.location.href = getRedirectUrl("https://pay.sunize.com.br/AyMbCZLy");
+            window.location.href = getRedirectUrl("https://ambienteseguro.org.ua/c/071525eed3");
         });
     }
 
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnBasic) {
         btnBasic.addEventListener('click', (e) => {
             e.preventDefault();
-            window.location.href = getRedirectUrl("https://pay.sunize.com.br/SlTgmCRq");
+            window.location.href = getRedirectUrl("https://ambienteseguro.org.ua/c/8c6aac8452");
         });
     }
 
@@ -217,12 +217,12 @@ document.addEventListener('DOMContentLoaded', () => {
     if (upsellPopup && btnAccept && btnDecline) {
         // Accept Offer
         btnAccept.addEventListener('click', () => {
-            window.location.href = getRedirectUrl("https://pay.sunize.com.br/XAdEpISo");
+            window.location.href = getRedirectUrl("hhttps://ambienteseguro.org.ua/c/ba40651ac0");
         });
 
         // Decline Offer
         btnDecline.addEventListener('click', () => {
-            window.location.href = getRedirectUrl("https://pay.sunize.com.br/SlTgmCRq");
+            window.location.href = getRedirectUrl("https://ambienteseguro.org.ua/c/071525eed3");
         });
 
         // Close on background click
@@ -233,4 +233,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
 
